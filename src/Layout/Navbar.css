@@ -1,0 +1,23 @@
+#blog-maker{
+  margin-left: 20px;
+    font-size: 25px;
+}
+#about-us{
+  font-size: 20px;
+  color: black;
+}
+#navbar{
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+ 
+  #dropdown{
+    background: #254a83;
+    margin-right: 25px;
+}
+
+#navbar-admin{
+  
+  padding-right: 0px;
+  padding-left: 0px;
+}
